@@ -1,0 +1,16 @@
+{
+    "name": "Godot 3",
+    "version": "3.6",
+    "archive": "Godot3.tgz",
+    "author": {
+        "name": "scillidan",
+        "link": "https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/Godot3"
+    },
+    "aliases": ["godot"],
+    "specific_versions": [
+        {
+            "version": "3.5",
+            "archive": "versions/3.5/godot.tgz"
+        },
+    ]
+}
